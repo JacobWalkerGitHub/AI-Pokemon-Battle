@@ -1,0 +1,52 @@
+Name,Type,Category,Contest,PP,Power,Accuracy
+Karate Chop,Fighting,Physical,Tough,25,50,100
+Double Slap,Normal,Physical,Cute,10,15,85
+Mega Punch,Normal,Physical,Tough,20,80,85
+Thunder Punch,Electric,Physical,Cool,15,75,100
+Scratch,Normal,Physical,Tough,35,40,100
+Vice Grip,Normal,Physical,Tough,30,55,100
+Wing Attack,Flying,Physical,Cool,35,60,100
+Bind,Normal,Physical,Tough,20,15,None
+Slam,Normal,Physical,Tough,20,80,75
+Vine Whip,Grass,Physical,Cool,25,45,100
+Horn Attack,Normal,Physical,Cool,25,65,100
+Fury Attack,Normal,Physical,Cool,20,15,85
+Tackle,Normal,Physical,Tough,35,40,None
+Take Down,Normal,Physical,Tough,20,90,85
+Thrash,Normal,Physical,Tough,10,120,100
+Poison Sting,Poison,Physical,Clever,35,15,100
+Twineedle,Bug,Physical,Cool,20,25,100
+Bite,Dark,Physical,Tough,25,60,100
+Acid,Poison,Special,Clever,30,40,100
+Ember,Fire,Special,Cute,25,40,100
+Flamethrower,Fire,Special,Beautiful,15,90,100
+Water Gun,Water,Special,Cute,25,40,100
+Ice Beam,Ice,Special,Beautiful,10,90,100
+Blizzard,Ice,Special,Beautiful,5,110,None
+Psybeam,Psychic,Special,Beautiful,20,65,100
+Bubble Beam,Water,Special,Beautiful,20,65,100
+Hyper Beam,Normal,Special,Cool,5,150,90
+Peck,Flying,Physical,Cool,35,35,100
+Submission,Fighting,Physical,Cool,20,80,80
+Strength,Normal,Physical,Tough,15,80,100
+Mega Drain,Grass,Special,Clever,15,40,100
+Razor Leaf,Grass,Physical,Cool,25,55,95
+Solar Beam,Grass,Special,Cool,10,120,100
+Thunder Shock,Electric,Special,Cool,30,40,100
+Thunderbolt,Electric,Special,Cool,15,90,100
+Thunder,Electric,Special,Cool,10,110,70
+Dig,Ground,Physical,Tough,10,80,100
+Psychic,Psychic,Special,Clever,10,90,100
+Quick Attack,Normal,Physical,Cool,30,40,100
+Rage,Normal,Physical,Tough,20,20,100
+Lick,Ghost,Physical,Cute,30,30,100
+Sludge,Poison,Special,Tough,20,65,100
+Waterfall,Water,Physical,Tough,15,80,100
+Clamp,Water,Physical,Tough,15,35,None
+Swift,Normal,Special,Cool,20,60,None
+Barrage,Normal,Physical,Cute,20,15,85
+Leech Life,Bug,Physical,Clever,10,80,100
+Sky Attack,Flying,Physical,Cool,5,140,90
+Explosion,Normal,Physical,Beautiful,5,250,100
+Fury Swipes,Normal,Physical,Tough,15,18,80
+Slash,Normal,Physical,Cool,20,70,100
